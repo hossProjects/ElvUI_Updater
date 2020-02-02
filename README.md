@@ -1,5 +1,5 @@
 # ElvUI_Updater
-Powershell script to update ElvUI
+Powershell script to update ElvUI - WOW CLASSIC ONLY
 
 # DESCRIPTION
 
