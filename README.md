@@ -7,7 +7,7 @@ This powershell script was created to automate the process of downloading and ex
 It assumes you already have World of Warcraft Classic installed.
 
 Future developement includes an option to create user task, in task scheduler, for daily checks.
-This option has been left out until enoug interest is shown to support it.
+This option has been left out until enough interest is shown to support it.
 
 # INSTALLATION
 
