@@ -76,7 +76,7 @@ if ( $installedVersion ) {
         Write-Host -ForegroundColor Cyan "--Found new version!"
         backupElvUI
         InstallElvUI
-        endScript -msg "`n  Installed ElvUI version $dlLink" -col "Green"
+        endScript -msg "`n  Installed ElvUI version $dlVersion" -col "Green"
     } else {
         endScript -msg "`n  The most current version is installed." -col "Green"
     }
